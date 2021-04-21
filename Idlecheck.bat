@@ -1,0 +1,3 @@
+ECHO OFF
+TASKLIST | FINDSTR "wscript"
+PAUSE
